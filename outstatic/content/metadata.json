@@ -1,0 +1,22 @@
+{
+  "commit": "",
+  "generated": "2026-03-02T11:13:55.621Z",
+  "metadata": [
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "1955870690",
+        "path": "outstatic/content/products/godrej-nx-pro.mdx"
+      },
+      "author": {
+        "name": "Yogeshwaran",
+        "picture": "https://avatars.githubusercontent.com/u/185691080?v=4"
+      },
+      "collection": "products",
+      "publishedAt": "2026-03-02T11:45:45.289Z",
+      "slug": "godrej-nx-pro",
+      "status": "published",
+      "title": "Godrej Nx Pro "
+    }
+  ]
+}
